@@ -127,7 +127,7 @@ p {
 }
 
 
-@media (min-width: 500px) {
+@media (max-width: 500px) {
 
   .titleStyle {
     font-size: 83px;
@@ -142,7 +142,6 @@ p {
     padding-bottom: 50px;
   }
 
-/*
   .whatWeDo {
     padding: 130px;
   }
@@ -155,7 +154,6 @@ p {
     margin: 50px 50px 30px 50px;
     font-size: 35px;
   }
-  */
 
   .whoWeAre {
     padding: 100px 150px 100px 150px;
